@@ -1,4 +1,4 @@
-//Lab 2
+//Lab 3
 //Check Java Program
 //
 //This program will use a Scanner to obtain the orignal cost of the check,
